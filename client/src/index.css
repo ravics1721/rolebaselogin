@@ -1,0 +1,15 @@
+:root {
+  --main: #43537b;
+  --primary: #ff5116;
+  --second: #0074b8;
+  --default: #e9edf0;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+}
+.all-center {
+  display: grid;
+  place-items: center;
+}
